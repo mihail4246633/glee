@@ -1,6 +1,14 @@
-%dmsand-400 {
+$accent: #fe3e57;
+$default: #8d8d8d;
+$title: #191919;
+%dmsans-400 {
     font-family: 'DM Sans', sans-serif;
     font-weight: 400;
+}
+
+%dmsans-500 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
 }
 
 %dmsand-700 {
